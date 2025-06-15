@@ -1,0 +1,4 @@
+repository "Gaem/Gamedenis@20066456089395@cloud"
+  path "/"
+    br "/main"
+    co "/main"

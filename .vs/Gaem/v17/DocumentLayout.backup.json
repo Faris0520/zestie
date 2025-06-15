@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\tomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\l1finishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l1finishui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\encypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\encypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|d:\\koding\\unity-platformer-episode-3\\gaem\\assets\\scripts\\notiffullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notiffullscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\assets\\scripts\\l1finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\l1finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\assets\\scripts\\health\\upeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153BBFB4-78F4-F45A-3BA7-E6BD29445A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\upeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:39:20.251Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToMenu.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\ToMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToMenu.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\ToMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:15:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:14:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelMenu.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\LevelMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelMenu.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\LevelMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:14:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:14:17.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:13:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncyPopUp.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\EncyPopUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EncyPopUp.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\EncyPopUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EncyPopUp.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:13:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:12:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotifFullscreen.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\NotifFullscreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NotifFullscreen.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\NotifFullscreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NotifFullscreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:06:23.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:03:45.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L1FinishUI.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\L1FinishUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L1FinishUI.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\L1FinishUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L1FinishUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:12:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "L1Finish.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\L1Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\L1Finish.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\L1Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\L1Finish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:15:20.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpEffect.cs",
+              "DocumentMoniker": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\UpEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\UpEffect.cs",
+              "ToolTip": "D:\\Koding\\Unity-Platformer-Episode-3\\Gaem\\Assets\\Scripts\\Health\\UpEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\UpEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:38:05.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
