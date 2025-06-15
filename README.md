@@ -1,6 +1,7 @@
 # Zestie - Game Edukasi
 
 https://game.farisdaffa.id
+
 Sebuah game platformer 2D yang dibuat dengan Unity, dilengkapi dengan gerakan karakter yang halus, animasi, dan mekanik gameplay yang menarik.
 
 ## Fitur
