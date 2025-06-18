@@ -12,7 +12,7 @@ Sebuah game platformer 2D yang dibuat dengan Unity, dilengkapi dengan gerakan ka
 
 ## Persyaratan
 
-- Unity 2022.3 atau lebih baru
+- Unity 2022.3
 - Pengetahuan dasar Unity dan C#
 
 ## Cara Memulai
